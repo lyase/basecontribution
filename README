@@ -1,1 +1,6 @@
  adding first lines
+you clone from upstream with 
+git clone git://github.com/lyase/basecontribution.git
+ but you can not push that way wereas if you fork on github you can push again 
+http://help.github.com/forking/
+
