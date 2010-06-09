@@ -5,6 +5,7 @@ import unittest
 class TestSequenceFunctions(unittest.TestCase):
 
     def setUp(self):
+#this will be run before each test i think
         self.seq = range(10)
 
     def testPass(self):
@@ -13,3 +14,4 @@ class TestSequenceFunctions(unittest.TestCase):
 if __name__ == '__main__':
         unittest.main()
 
+# test push
