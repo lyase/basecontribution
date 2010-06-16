@@ -41,7 +41,7 @@ class TestSequenceFunctions(unittest.TestCase):
         # define your test as methods before this line and under self.assert# test methods will be here
 ## this test shows how to add code implemented elsewere (imports) .
     def testimport(self):
-import(prgcode)
+        import prgcode
         self.assertEqual(a,1)
     #  @param self The object pointer.
         # make sure the shuffled sequence does not lose any elements
