@@ -38,7 +38,8 @@ class TestSequenceFunctions(unittest.TestCase):
         # make sure the shuffled sequence does not lose any elements
 
         self.assertEqual(True,True)
+        # define your test as methods before this line and under self.assert# test methods will be here
 if __name__ == '__main__':
-        unittest.main()
+    unittest.main()
 
 # test push
