@@ -39,6 +39,13 @@ class TestSequenceFunctions(unittest.TestCase):
 
         self.assertEqual(True,True)
         # define your test as methods before this line and under self.assert# test methods will be here
+## this test shows how to add code implemented elsewere (imports) .
+    def testimport(self):
+
+        self.assertEqual(a,1)
+    #  @param self The object pointer.
+        # make sure the shuffled sequence does not lose any elements
+
 if __name__ == '__main__':
     unittest.main()
 
