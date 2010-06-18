@@ -39,7 +39,7 @@ class TestSequenceFunctions(unittest.TestCase):
 
         self.assertEqual(True,True)
         # define your test as methods before this line and under self.assert# test methods will be here
-## this test shows how to add code implemented elsewere (imports)so the code of the application is kept in its proper place imported and used as needed.
+## testimport shows how to add code implemented elsewere (imports)so the code of the application is kept in its proper place imported and used as needed.
 # Here is an example of inserting a mathematical formula into the documentation  :
 #   \f[
 #   V(t,x)=\inf_{(\alpha_s)_s}
@@ -55,8 +55,13 @@ class TestSequenceFunctions(unittest.TestCase):
         import prgcode
         a=prgcode.module_loaded()
         self.assertEqual(a,True)
-    #  @param self The object pointer.
-        # make sure the shuffled sequence does not lose any elements
+
+## testimport_light shows how to add code implemented elsewere (imports)\n
+#so the code of the application is kept in its proper place imported and used as needed. this version is light\n as the usage of the function does not require source name but heavier on the import
+    def testimport_light(self):
+        from prgcode import module_loaded
+        a=module_loaded()
+        self.assertEqual(a,True)
 
 if __name__ == '__main__':
     unittest.main()
