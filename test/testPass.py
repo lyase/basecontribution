@@ -39,10 +39,22 @@ class TestSequenceFunctions(unittest.TestCase):
 
         self.assertEqual(True,True)
         # define your test as methods before this line and under self.assert# test methods will be here
-## this test shows how to add code implemented elsewere (imports) .
+## this test shows how to add code implemented elsewere (imports)so the code of the application is kept in its proper place imported and used as needed.
+# Here is an example of inserting a mathematical formula into the documentation  :
+#   \f[
+#   V(t,x)=\inf_{(\alpha_s)_s}
+#   I\!\! E_{t,x}
+#   \left\{\Psi\left(X_\tau\right)
+#   \right\}
+#   \f]
+# just in case it is the returned value of this function \n 
+# note that all formulas must be valid LaTeX math-mode commands.\n
+#this function was written and documented  on:\date june 18 2010
+
     def testimport(self):
         import prgcode
-        self.assertEqual(a,1)
+        a=prgcode.module_loaded()
+        self.assertEqual(a,True)
     #  @param self The object pointer.
         # make sure the shuffled sequence does not lose any elements
 
