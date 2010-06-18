@@ -55,8 +55,13 @@ class TestSequenceFunctions(unittest.TestCase):
         import prgcode
         a=prgcode.module_loaded()
         self.assertEqual(a,True)
-    #  @param self The object pointer.
-        # make sure the shuffled sequence does not lose any elements
+## this test shows how to add code implemented elsewere (imports)so the code of the application is kept in its proper place imported and used as needed. \n
+        # the function are shorter to be called but have to be declared when importing
+    def testimport_light(self):
+
+        from prgcode import module_loaded 
+        a=module_loaded()
+        self.assertEqual(a,True)
 
 if __name__ == '__main__':
     unittest.main()
