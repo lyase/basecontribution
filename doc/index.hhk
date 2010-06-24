@@ -16,8 +16,22 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex.py"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="setUp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testFakeForDoc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testFakeForLATEXDoc"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
@@ -26,17 +40,22 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex.py"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testimport_light"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex.py"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testPass.py"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="seq"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="setUp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testFakeForLATEXDoc"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testimport"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testimport_light"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testPass"></OBJECT>
@@ -47,10 +66,33 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="seq"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="setUp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testFakeForLATEXDoc"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testimport"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testimport_light"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass__latex_8py.html"><param name="Name" value="testPass_latex.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass__latex_8py.html"><param name="Name" value="seq"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass__latex_8py.html"><param name="Name" value="setUp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass__latex_8py.html"><param name="Name" value="testFakeForDoc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass__latex_8py.html"><param name="Name" value="testimport"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass__latex_8py.html"><param name="Name" value="testimport_light"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass__latex_8py.html"><param name="Name" value="testPass"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classtestPass__latex_1_1TestSequenceFunctions.html"><param name="Name" value="testPass_latex::TestSequenceFunctions"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass_latex"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="seq"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="setUp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testFakeForDoc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testimport"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testimport_light"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass__latex.html"><param name="Name" value="testPass"></OBJECT>
   </UL>
 </UL>
 </BODY>

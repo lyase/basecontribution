@@ -15,6 +15,7 @@ main="Tutorial","index.hhc","index.hhk","main.html","main.html",,,,,0x23520,,0x1
 main.html
 prgcode_8py.html
 testPass_8py.html
+testPass__latex_8py.html
 annotated.html
 classes.html
 namespaces.html
@@ -22,6 +23,8 @@ namespaceprgcode.html
 namespacetestPass.html
 classtestPass_1_1TestSequenceFunctions.html
 namespacetestPass_1_1py.html
+namespacetestPass__latex.html
+classtestPass__latex_1_1TestSequenceFunctions.html
 namespacemembers.html
 namespacemembers_func.html
 namespacemembers_vars.html

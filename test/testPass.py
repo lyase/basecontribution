@@ -38,19 +38,28 @@ class TestSequenceFunctions(unittest.TestCase):
         # make sure the shuffled sequence does not lose any elements
 
         self.assertEqual(True,True)
-        # define your test as methods before this line and under self.assert# test methods will be here
-## testimport shows how to add code implemented elsewere (imports)so the code of the application is kept in its proper place imported and used as needed.
-# Here is an example of inserting a mathematical formula into the documentation  :
+        # define your test as methods before this line and under self.assert
+# test methods will be here
+## this function does nothing but has fancy documentation on how to write a formula in doc:
+# more latex here:
 #   \f[
 #   V(t,x)=\inf_{(\alpha_s)_s}
 #   I\!\! E_{t,x}
 #   \left\{\Psi\left(X_\tau\right)
 #   \right\}
 #   \f]
+
+
 # just in case it is the returned value of this function \n 
 # note that all formulas must be valid LaTeX math-mode commands.\n
 #this function was written and documented  on:\date june 18 2010
 
+    def testFakeForLATEXDoc(self):
+
+        self.assertEqual(True,True)
+
+## testimport shows how to add code implemented elsewere (imports)so the code of the application is kept in its proper place imported and used as needed.
+# more comments
     def testimport(self):
         import prgcode
         a=prgcode.module_loaded()
