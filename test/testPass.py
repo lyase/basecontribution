@@ -11,8 +11,8 @@
 # each methode is a test in that world.
 # think use cases.
 
-import random
 import unittest
+
 ## this class will hold all the test cases of the app it will act as the test runner\n 
 # and doc generator seed.
 #each test will be written in a function starting by keywork test \n
@@ -39,16 +39,27 @@ class TestSequenceFunctions(unittest.TestCase):
 
         self.assertEqual(True,True)
         # define your test as methods before this line and under self.assert# test methods will be here
-## this test shows how to add code implemented elsewere (imports) .
+## testimport shows how to add code implemented elsewere (imports)so the code of the application is kept in its proper place imported and used as needed.
+# Here is an example of inserting a mathematical formula into the documentation  :
+#   \f[
+#   V(t,x)=\inf_{(\alpha_s)_s}
+#   I\!\! E_{t,x}
+#   \left\{\Psi\left(X_\tau\right)
+#   \right\}
+#   \f]
+# just in case it is the returned value of this function \n 
+# note that all formulas must be valid LaTeX math-mode commands.\n
+#this function was written and documented  on:\date june 18 2010
+
     def testimport(self):
         import prgcode
         a=prgcode.module_loaded()
         self.assertEqual(a,True)
-## this test shows how to add code implemented elsewere (imports)so the code of the application is kept in its proper place imported and used as needed. \n
-        # the function are shorter to be called but have to be declared when importing
-    def testimport_light(self):
 
-        from prgcode import module_loaded 
+## testimport_light shows how to add code implemented elsewere (imports)\n
+#so the code of the application is kept in its proper place imported and used as needed. this version is light\n as the usage of the function does not require source name but heavier on the import
+    def testimport_light(self):
+        from prgcode import module_loaded
         a=module_loaded()
         self.assertEqual(a,True)
 
