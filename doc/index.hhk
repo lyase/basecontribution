@@ -4,6 +4,126 @@
 <param name="FrameName" value="right">
 </OBJECT>
 <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="__request"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="a"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_200day_moving_avg"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_50day_moving_avg"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_52_week_high"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_52_week_low"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_all"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_avg_daily_volume"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_book_value"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_change"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_dividend_per_share"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_dividend_yield"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_earnings_per_share"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_ebitda"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_historical_prices"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_market_cap"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_price"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_price_book_ratio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_price_earnings_growth_ratio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_price_earnings_ratio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_price_sales_ratio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_short_ratio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_stock_exchange"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_volume"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
+  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceprgcode.html"><param name="Name" value="module_loaded"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceprgcode.html"><param name="Name" value="prgcode"></OBJECT>
@@ -35,22 +155,84 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testPass.py"></OBJECT>
   <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="a"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="seq"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="setUp"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testimport"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testimport_light"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testPass"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testreadgpoogleQuotes"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass_1_1py.html"><param name="Name" value="testPass::py"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classtestPass_1_1TestSequenceFunctions.html"><param name="Name" value="testPass::TestSequenceFunctions"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
   <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="a"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="seq"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="setUp"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testimport"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testimport_light"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testreadgpoogleQuotes"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testreadgpoogleQuotes"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="yquote.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="__request"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_200day_moving_avg"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_50day_moving_avg"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_52_week_high"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_52_week_low"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_all"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_avg_daily_volume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_book_value"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_change"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_dividend_per_share"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_dividend_yield"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_earnings_per_share"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_ebitda"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_historical_prices"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_market_cap"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_price"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_price_book_ratio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_price_earnings_growth_ratio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_price_earnings_ratio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_price_sales_ratio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_short_ratio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_stock_exchange"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="yquote_8py.html"><param name="Name" value="get_volume"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="__request"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_200day_moving_avg"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_50day_moving_avg"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_52_week_high"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_52_week_low"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_all"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_avg_daily_volume"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_book_value"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_change"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_dividend_per_share"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_dividend_yield"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_earnings_per_share"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_ebitda"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_historical_prices"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_market_cap"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_price"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_price_book_ratio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_price_earnings_growth_ratio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_price_earnings_ratio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_price_sales_ratio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_short_ratio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_stock_exchange"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="get_volume"></OBJECT>
   </UL>
 </UL>
 </BODY>
