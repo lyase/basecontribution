@@ -321,7 +321,21 @@ class TestSequenceFunctions(unittest.TestCase):
 	from yquote  import get_historical_prices 
     	b=get_historical_prices('GOOG','20090101','20100101')
 	self.assertEqual(self.a,b)
-
+## this is to  test how to define &use object & class.
+# in my application
+    def testusingclass(self):
+	import prgcode 
+	c=prgcode.myobj()	
+	self.assertEqual(c.name(),"myobj")
+	
+## this is to  test how to define &use a derived object & class.
+# in my application
+    def testusingclass(self):
+	import prgcode 
+	c=prgcode.derivedmyobj()	
+	self.assertEqual(c.name(),"myobj")
+	self.assertEqual(c.derivedname(),"derivedmyobj")
+	
 if __name__ == '__main__':
     unittest.main()
 

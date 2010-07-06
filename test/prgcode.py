@@ -9,3 +9,19 @@
 def module_loaded():
 
     return True;
+## this class defines a simple object .
+# with just one method .
+
+
+class myobj:
+  ## this is the only method of my object  .
+# it will return a string with "myobj" .
+
+  def name(self):
+    return "myobj"
+    ## this class defines a simple object derived from myobj .
+# with no method just the inherited.
+
+class derivedmyobj(myobj):
+  def derivedname(self):
+    return "derivedmyobj"

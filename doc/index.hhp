@@ -18,8 +18,13 @@ testPass_8py.html
 yquote_8py.html
 annotated.html
 classes.html
+hierarchy.html
+functions.html
+functions_func.html
 namespaces.html
 namespaceprgcode.html
+classprgcode_1_1myobj.html
+classprgcode_1_1derivedmyobj.html
 namespacetestPass.html
 classtestPass_1_1TestSequenceFunctions.html
 namespacetestPass_1_1py.html
