@@ -330,12 +330,24 @@ class TestSequenceFunctions(unittest.TestCase):
 	
 ## this is to  test how to define &use a derived object & class.
 # in my application
-    def testusingclass(self):
+    def testusingDerivedclass(self):
 	import prgcode 
 	c=prgcode.derivedmyobj()	
 	self.assertEqual(c.name(),"myobj")
 	self.assertEqual(c.derivedname(),"derivedmyobj")
 	
+## this is to  test how &use a singleton object & .
+# in my application on vas verifier que les object on la meme valeur et la meme addresse memoire
+    def ttestusingSingleton(self):
+	import prgcode 
+	c=prgcode.derivedmyobj()	
+	aMyClass=prgcode.MyClass()	
+	otheraMyClass=prgcode.MyClass()	
+	self.assertEqual(c.name(),"myobj")
+	self.assertEqual(c.derivedname(),"derivedmyobj")
+	self.assertEqual(aMyClass, otheraMyClass)
+
+	self.assertEqual(get_address(aMyClass),get_address(otheraMyClass))
 if __name__ == '__main__':
     unittest.main()
 

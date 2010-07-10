@@ -7,15 +7,19 @@
 <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
   <UL>
   <LI><OBJECT type="text/sitemap"><param name="Name" value="prgcode::derivedmyobj"><param name="Local" value="classprgcode_1_1derivedmyobj.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="prgcode::MyClass"><param name="Local" value="classprgcode_1_1MyClass.html"><param name="ImageNumber" value="11"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Name" value="prgcode::myobj"><param name="Local" value="classprgcode_1_1myobj.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="prgcode::Singleton"><param name="Local" value="classprgcode_1_1Singleton.html"><param name="ImageNumber" value="11"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Name" value="testPass::TestSequenceFunctions"><param name="Local" value="classtestPass_1_1TestSequenceFunctions.html"><param name="ImageNumber" value="11"></OBJECT>
   </UL>
 <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
   <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="prgcode::MyClass"><param name="Local" value="classprgcode_1_1MyClass.html"><param name="ImageNumber" value="11"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Name" value="prgcode::myobj"><param name="Local" value="classprgcode_1_1myobj.html"><param name="ImageNumber" value="1"></OBJECT>
     <UL>
     <LI><OBJECT type="text/sitemap"><param name="Name" value="prgcode::derivedmyobj"><param name="Local" value="classprgcode_1_1derivedmyobj.html"><param name="ImageNumber" value="11"></OBJECT>
     </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="prgcode::Singleton"><param name="Local" value="classprgcode_1_1Singleton.html"><param name="ImageNumber" value="11"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Name" value="testPass::TestSequenceFunctions"><param name="Local" value="classtestPass_1_1TestSequenceFunctions.html"><param name="ImageNumber" value="11"></OBJECT>
   </UL>
 <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Fields"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>

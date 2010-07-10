@@ -4,6 +4,9 @@
 <param name="FrameName" value="right">
 </OBJECT>
 <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1Singleton.html"><param name="Name" value="__call__"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1Singleton.html"><param name="Name" value="__init__"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1MyClass.html"><param name="Name" value="__metaclass__"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="__request"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
@@ -137,9 +140,18 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1derivedmyobj.html"><param name="Name" value="derivedname"></OBJECT>
   </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1MyClass.html"><param name="Name" value="prgcode::MyClass"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1MyClass.html"><param name="Name" value="__metaclass__"></OBJECT>
+  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1myobj.html"><param name="Name" value="prgcode::myobj"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1myobj.html"><param name="Name" value="name"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1Singleton.html"><param name="Name" value="prgcode::Singleton"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1Singleton.html"><param name="Name" value="__call__"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1Singleton.html"><param name="Name" value="__init__"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceprgcode.html"><param name="Name" value="prgcode"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="seq"></OBJECT>
@@ -173,6 +185,8 @@
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testPass"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testreadgpoogleQuotes"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testusingclass"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testusingDerivedclass"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="ttestusingSingleton"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass_1_1py.html"><param name="Name" value="testPass::py"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classtestPass_1_1TestSequenceFunctions.html"><param name="Name" value="testPass::TestSequenceFunctions"></OBJECT>
@@ -187,6 +201,8 @@
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testreadgpoogleQuotes"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testusingclass"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testusingDerivedclass"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="ttestusingSingleton"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testreadgpoogleQuotes"></OBJECT>
   <UL>
@@ -194,6 +210,16 @@
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testusingclass"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testusingDerivedclass"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="ttestusingSingleton"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
