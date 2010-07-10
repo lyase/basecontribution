@@ -25,3 +25,14 @@ class myobj:
 class derivedmyobj(myobj):
   def derivedname(self):
     return "derivedmyobj"
+    ## this class defines a simple object that wll be a singleton in the application.
+# .
+
+class  Singleton (object):
+    instance = None       # Attribut statique de classe
+    def __new__(laClasse): 
+        if laClasse.instance is None:
+            laClasse.instance = object.__new__(laClasse)
+        return laClasse.instance
+ 
+# Utilisation
