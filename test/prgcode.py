@@ -40,6 +40,7 @@ class Singleton(type):
         return cls.instance
 
 # Utilisation
+    ## this class  will be a singleton in the application.
 class MyClass(object):
     __metaclass__ = Singleton
  
