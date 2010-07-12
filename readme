@@ -1,0 +1,15 @@
+ adding first lines
+you clone from upstream with 
+git clone git://github.com/lyase/basecontribution.git
+ the repository is public you can push back to it 
+http://help.github.com/forking/
+or set a remote repo
+git remote add github git@github.com:lyase/basecontribution.git
+you might need to create your account in git hub and register your ssh keys
+then pull & push with
+git push github master
+git pull github
+you can generate documentation of the code with 
+$ doxygen doxy.cfg
+running the tests with 
+python test/tesPass.py
