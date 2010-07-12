@@ -128,6 +128,11 @@
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceyquote.html"><param name="Name" value="yquote.py"></OBJECT>
   </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceprgcode.html"><param name="Name" value="LatexDemoDoc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceprgcode.html"><param name="Name" value="prgcode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceprgcode.html"><param name="Name" value="prgcode.py"></OBJECT>
+  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceprgcode.html"><param name="Name" value="module_loaded"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceprgcode.html"><param name="Name" value="prgcode"></OBJECT>
@@ -136,6 +141,10 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1myobj.html"><param name="Name" value="name"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceprgcode.html"><param name="Name" value="prgcode"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="prgcode_8py.html"><param name="Name" value="prgcode.py"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="prgcode_8py.html"><param name="Name" value="LatexDemoDoc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="prgcode_8py.html"><param name="Name" value="module_loaded"></OBJECT>
+  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1derivedmyobj.html"><param name="Name" value="prgcode::derivedmyobj"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1derivedmyobj.html"><param name="Name" value="derivedname"></OBJECT>
@@ -154,6 +163,10 @@
     <LI><OBJECT type="text/sitemap"><param name="Local" value="classprgcode_1_1Singleton.html"><param name="Name" value="__init__"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceprgcode.html"><param name="Name" value="prgcode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceprgcode.html"><param name="Name" value="LatexDemoDoc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceprgcode.html"><param name="Name" value="module_loaded"></OBJECT>
+  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="seq"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
