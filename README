@@ -14,3 +14,4 @@ $ doxygen doxy.cfg
 running the tests with 
 python test/tesPass.py
 just a step on master that should be pushed
+one more step as it looks to be working and stay private
