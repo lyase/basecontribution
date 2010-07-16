@@ -13,3 +13,4 @@ you can generate documentation of the code with
 $ doxygen doxy.cfg
 running the tests with 
 python test/tesPass.py
+just a step on master that should be pushed
