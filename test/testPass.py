@@ -72,6 +72,10 @@ class TestSequenceFunctions(unittest.TestCase):
         a=module_loaded()
         self.assertEqual(a,True)
 
+## branche decrire le workflow des donnnees, viennent d'ou etc. ce qui se passe sur ordre de synchronisation. garder tous les historiques 
+# suite des commentaires
+# etc
+       
 if __name__ == '__main__':
     unittest.main()
 
