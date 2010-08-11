@@ -177,6 +177,11 @@
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
   </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testFakeForLATEXDoc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass.py"></OBJECT>
+  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testimport"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>
@@ -193,6 +198,7 @@
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="a"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="seq"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="setUp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testFakeForLATEXDoc"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testimport"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testimport_light"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="testPass_8py.html"><param name="Name" value="testPass"></OBJECT>
@@ -208,6 +214,7 @@
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="a"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="seq"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="setUp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testFakeForLATEXDoc"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testimport"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testimport_light"></OBJECT>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacetestPass.html"><param name="Name" value="testPass"></OBJECT>

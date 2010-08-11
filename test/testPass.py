@@ -282,29 +282,32 @@ class TestSequenceFunctions(unittest.TestCase):
 #--------------------------------doc of testPass -----------------------------------------
 
 ## this method is test is the hello world of tests it will always pass.
-    #  @param self The object pointer.
-        # make sure the shuffled sequence does not lose any elements
-
+#  @param self The object pointer.
+# make sure the shuffled sequence does not lose any elements
     def testPass(self):
-
-    #  @param self The object pointer.
-        # make sure the shuffled sequence does not lose any elements
-
         self.assertEqual(True,True)
-        # define your test as methods before this line and under last self.assert
-        # test methods will be here
-## testimport shows how to add code implemented elsewere (imports)so the code of the application is kept in its proper place imported and used as needed.
-# Here is an example of inserting a mathematical formula into the documentation  :
+        # define your test as methods before this line and under self.assert
+# test methods will be here
+## this function does nothing but has fancy documentation on how to write a formula in doc:
+# more latex here:
 #   \f[
 #   V(t,x)=\inf_{(\alpha_s)_s}
 #   I\!\! E_{t,x}
 #   \left\{\Psi\left(X_\tau\right)
 #   \right\}
 #   \f]
+
+
 # just in case it is the returned value of this function \n 
 # note that all formulas must be valid LaTeX math-mode commands.\n
 #this function was written and documented  on:\date june 18 2010
 
+    def testFakeForLATEXDoc(self):
+
+        self.assertEqual(True,True)
+
+## testimport shows how to add code implemented elsewere (imports)so the code of the application is kept in its proper place imported and used as needed.
+# more comments
     def testimport(self):
         import prgcode
         a=prgcode.module_loaded()
@@ -316,12 +319,14 @@ class TestSequenceFunctions(unittest.TestCase):
         from prgcode import module_loaded
         a=module_loaded()
         self.assertEqual(a,True)
+
 ## this is to  test if I am able to get the prices of google stock for 2009 between 2009 01 01 and 2010 01 01.
 # (for now the true historical prices are  hardcoded in this test structure.)
     def testreadgpoogleQuotes(self):
 	from yquote  import get_historical_prices 
     	b=get_historical_prices('GOOG','20090101','20100101')
 	self.assertEqual(self.a,b)
+
 ## this is to  test how to define &use object & class.
 # in my application
     def testusingclass(self):
@@ -349,7 +354,23 @@ class TestSequenceFunctions(unittest.TestCase):
 	self.assertEqual(aMyClass, otheraMyClass)
 
 	self.assertEqual(get_address(aMyClass),get_address(otheraMyClass))
+
+## branche decrire le workflow des donnnees, viennent d'ou etc. ce qui se passe sur ordre de synchronisation. garder tous les historiques 
+# Suivre des portefeuilles d'indices et de futures.
+# Indices et futures sont deux exemples d'une classe plus large de produits financiers, caracterises par
+  #le deposit en cash requis
+# Indice caracterise par 
+  #une origine
+  #une serie temporelle representant le devenir d'un investissement a  total return
+  #peut etre accompagne d'autres series (par exemple rendement, spread, volatilite
+  #les indices peuvent se combiner, a l'aide d'une serie de dates et de poids aux dates de rebalancing
+  #une combinaison d'indices est un nouvel indice
+# Future caracterise par
+  #une serie de codes representant les differents contrats
+  #pour chaque code, les dates de debut et de fin du contrat
+  #ces dates doivent se chevaucher
+  #une serie de dates de transition entre contrats
+  #un minimum de deposit requis
+       
 if __name__ == '__main__':
     unittest.main()
-
-# test push
