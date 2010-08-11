@@ -73,8 +73,23 @@ class TestSequenceFunctions(unittest.TestCase):
         self.assertEqual(a,True)
 
 ## branche decrire le workflow des donnnees, viennent d'ou etc. ce qui se passe sur ordre de synchronisation. garder tous les historiques 
-# suite des commentaires
-# etc
+# Suivre des portefeuilles d'indices et de futures.
+# Indices et futures sont deux exemples d'une classe plus large de produits financiers, caracterises par
+  #le deposit en cash requis
+# Indice caracterise par 
+  #une origine
+  #une serie temporelle representant le devenir d'un investissement a  total return
+  #peut etre accompagne d'autres series (par exemple rendement, spread, volatilite
+  #les indices peuvent se combiner, a l'aide d'une serie de dates et de poids aux dates de rebalancing
+  #une combinaison d'indices est un nouvel indice
+# Future caracterise par
+  #une serie de codes representant les differents contrats
+  #pour chaque code, les dates de debut et de fin du contrat
+  #ces dates doivent se chevaucher
+  #une serie de dates de transition entre contrats
+  #un minimum de deposit requis
+
+
        
 if __name__ == '__main__':
     unittest.main()
